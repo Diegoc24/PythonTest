@@ -1,0 +1,7 @@
+print("hello python")
+print("A continuacion, tipos de datos:")
+print(type("hello"))
+print(type(5))
+print(type(2.5))
+print(type(True))
+print(type(3 + 5j))
